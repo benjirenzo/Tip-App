@@ -1,5 +1,7 @@
 # Tip-App
 
+Spent approximately 4-5 hours
+
 1—Included radio control to select tip percentage
 2—Calculates tip and adds it to billAmount
 
