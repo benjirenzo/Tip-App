@@ -51,6 +51,7 @@ class ViewController: UIViewController {
         
         tipLabel.text = "$\(tip)"
         totalLabel.text = "$\(total)"
+        totalPerPerson.text = "$\(totalPerson)"
         tipLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
         totalPerPerson.text = String(format: "$%.2f", totalPerson)
